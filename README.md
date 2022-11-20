@@ -11,7 +11,7 @@
  
 Hello there, I am Jaimitkumar Panchal
 
-I live in India and currently i been working on improvising my logic building skills as a full stack developer and a begineer at Competetive programming
+I've been focusing on enhancing my logic-building abilities as a full-stack developer and beginner at competitive programming. I live in India.
 
 ## ⚡ Technologies
 Talk to me about
